@@ -3,8 +3,8 @@
 Modified version of <a href="https://github.com/jymbob/fang-hacks">Fang-Hacks</a> to support Xiaomi Chuangmi 720p Camera.
 Get telnet access to your Chuangmi 720p Camera.
 <h2>Quick Links</h2>
-<a href="#install-guide">Install guide</a>
-<a href="#ip-address-find">Find your Camera's IP Address</a>
+<a href="#install-guide">Install guide</a><br>
+<a href="#ip-address-find">Find your Camera's IP Address</a><br>
 <a href="#install-guide">Install guide</a>
 
 
