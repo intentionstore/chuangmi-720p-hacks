@@ -4,9 +4,10 @@
 <p>Modified version of <a href="https://github.com/jymbob/fang-hacks">Fang-Hacks</a> to support Xiaomi Chuangmi 720p Camera.
 Get telnet access to your Chuangmi 720p Camera.</p>
 <h3>Buy it here</h3>
-  <p>GearBest - http://bit.ly/2DSfh24</p>
-  <p>Banggood - http://bit.ly/2EddWR4</p>
-
+<p>GearBest - http://bit.ly/2DSfh24</p>
+<p>Banggood - http://bit.ly/2EddWR4</p>
+<p>GeekBuying - http://bit.ly/2DFgPNh</p>
+<p>LightInTheBox - http://bit.ly/2nfGNvO</p>
 </div>
 
 <div id="quick-links">
@@ -40,24 +41,24 @@ Get telnet access to your Chuangmi 720p Camera.</p>
 
 <div id="ip-address-find">
 <h1>Find your Camera's IP Address</h1>
-  <div class="steps-card">
-    <img width="270" src="https://i.imgur.com/1jR5CKX.png">
-    <br>
-    <p>Tap the three dots at the top right corner.</p>
-  </div>
-  <div class="steps-card">
-    <img width="270" src="https://i.imgur.com/ehohB7X.png">
-    <p>Tap "Device Settings".</p>
-    <br>
-  </div>
-  <div class="steps-card">
-    <img width="270" src="https://i.imgur.com/x4kOJTA.png">
-    <br>
-    <p>Tap "Network info".</p>
-  </div>
-  <div class="steps-card">
-    <img width="270" src="https://i.imgur.com/oiFTk7B.png">
-    <br>
-    The Camera's full IP address will be displayed.
-  </div>
+<div class="steps-card">
+<img width="270" src="https://i.imgur.com/1jR5CKX.png">
+<br>
+<p>Tap the three dots at the top right corner.</p>
+</div>
+<div class="steps-card">
+<img width="270" src="https://i.imgur.com/ehohB7X.png">
+<p>Tap "Device Settings".</p>
+<br>
+</div>
+<div class="steps-card">
+<img width="270" src="https://i.imgur.com/x4kOJTA.png">
+<br>
+<p>Tap "Network info".</p>
+</div>
+<div class="steps-card">
+<img width="270" src="https://i.imgur.com/oiFTk7B.png">
+<br>
+<p>he Camera's full IP address will be displayed.</p>
+</div>
 </div>
