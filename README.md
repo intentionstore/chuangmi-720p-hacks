@@ -13,4 +13,6 @@ Get telnet access to your Chuangmi 720p Camera.
 
 <div id="ip-address-find">
   <h1>Finding your Camera's IP Address</h1>
+  <ol>
+  </ol>
 </div>
