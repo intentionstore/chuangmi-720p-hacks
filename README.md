@@ -29,17 +29,17 @@ Get telnet access to your Chuangmi 720p Camera.
 
 <div id="ip-address-find">
 <h1>Find your Camera's IP Address</h1>
-  <div style="steps-card">
+  <div class="steps-card">
     <img width="270" src="https://i.imgur.com/1jR5CKX.png">
     <br>
     <p>Tap the three dots at the top right corner.</p>
   </div>
-  <div style="steps-card">
+  <div class="steps-card">
     <img width="270" src="https://i.imgur.com/ehohB7X.png">
     <p>Tap "Device Settings".</p>
     <br>
   </div>
-  <div style="steps-card">
+  <div class="steps-card">
     <img width="270" src="https://i.imgur.com/x4kOJTA.png">
     <br>
     <p>Tap "Network info".</p>
