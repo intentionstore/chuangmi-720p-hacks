@@ -1,0 +1,17 @@
+Collection of modifications for the XiaoFang WiFi Camera
+
+Forked for development of access to Chuangmi 720p camera
+
+For Chuangmi 720 camera download tf_recovery.img, transfer to an SD card and boot. You should then be able to telnet into the camera. User: root, no password.
+
+Steps to get telnet access:
+
+Set up camera with MiHome app
+Go into details and make a note of camera IP address (e.g. 192.168.1.250)
+Copy tf_recovery.img to the root of an SD card
+Unplug camera
+Insert SD card
+Plug in camera
+wait for about 2 minutes until lights go blue
+telnet 192.168.1.250 (same IP as in step 2) username: root, no password
+For questions, support and collaboration please join us on gitter. The discord channel is not used anymore.
