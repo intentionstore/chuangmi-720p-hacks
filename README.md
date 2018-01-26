@@ -62,3 +62,8 @@ Get telnet access to your Chuangmi 720p Camera.</p>
 <p>he Camera's full IP address will be displayed.</p>
 </div>
 </div>
+
+<div id="outro-page">
+<h1>Other intergations</h1>
+<p>I'm curently using my Chuangmi Cameras with Homebridge.</p>
+</div>
