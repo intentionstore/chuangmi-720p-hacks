@@ -70,7 +70,11 @@ Every little helps! Donate me a coffee.
 <div id="outro-page">
 <h1>Changelog</h1>
 <div>
-<h3>1.0</h3>
+<h3>1.0.5</h3>
+<p>fixed bugs<br>Added ".ds"</p>
+</div>
+<div>
+<h3>1.0.1</h3>
 <p>Added</p>
 </div>
 </div>
