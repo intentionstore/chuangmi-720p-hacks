@@ -23,6 +23,9 @@ Get telnet access to your Chuangmi 720p Camera.
 <li>Plug in your Camera
 <li>Wait untill the yellow status light turns solid blue
 <li><code>telnet YOUR_CAMERA'S_IP_ADDRESS</code> (Grab the IP Address from Step 2)
+<h3>Default Login details</h3>
+  <p>When you <code>Telenet</code> a login is required to get access tp the Camera</p>
+  <h3
 </ol>
 </div>
 
