@@ -1,8 +1,9 @@
-# Chuangmi-720p-hacks
+<div id="intro-page">
+<h1>Chuangmi-720p-hacks</h1>
 <img width="280" src="https://i.imgur.com/K5dGNPg.jpg">
-Modified version of <a href="https://github.com/jymbob/fang-hacks">Fang-Hacks</a> to support Xiaomi Chuangmi 720p Camera.
-Get telnet access to your Chuangmi 720p Camera.
-
+<p>Modified version of <a href="https://github.com/jymbob/fang-hacks">Fang-Hacks</a> to support Xiaomi Chuangmi 720p Camera.
+Get telnet access to your Chuangmi 720p Camera.</p>
+</div>
 
 <div id="quick-links">
 <h2>Quick Links</h2>
@@ -31,7 +32,6 @@ Get telnet access to your Chuangmi 720p Camera.
 <div id="default-logins">
 <h1>Default Login</h1>
 <p><code>username: root</code>, no password</p>
-
 </div>
 
 <div id="ip-address-find">
