@@ -6,9 +6,11 @@ Get telnet access to your Chuangmi 720p Camera.
 
 <div id="quick-links">
 <h2>Quick Links</h2>
-<a href="#install-guide">Install guide</a><br>
-<a href="#default-logins">Default login</a><br>
-<a href="#ip-address-find">Find your Camera's IP Address</a>
+<ol>
+<li><a href="#install-guide">Install guide</a><br>
+<li><a href="#default-logins">Default login</a><br>
+<li><a href="#ip-address-find">Find your Camera's IP Address</a>
+</ol>
 </div>
 
 <div id="install-guide">
