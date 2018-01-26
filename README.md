@@ -15,7 +15,7 @@ Get telnet access to your Chuangmi 720p Camera.
 <h1>Install guide</h1>
 <ol>
 <li>Set up your Chuangmi camera in the Mi Home app.</a>
-  <li>Make note of the Camera's IP Address, find out how to <a href="#ip-address-find">here</a>
+  <li>Make note of the Camera's IP Address (e.g. 192.168.1.173), find out how to <a href="#ip-address-find">here</a>
 <li>Format your Micro SD Card
 <li>Copy <code>tf_recovery</code> to your Micro SD card using software like <a href="etcher.io">Etcher</a>
 <li>Plug in your SD card into the camera.
