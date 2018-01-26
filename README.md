@@ -9,7 +9,6 @@ Get telnet access to your Chuangmi 720p Camera.
   <li>Copy <code>tf_recovery</code> to your Micro SD card using software like <a href="etcher.io">Etcher</a>
   <li>Plug in your SD card into the camera.
   <li>Wait untill the yellow status light turns blue
-  <li
 </ol>
 
 <div id="ip-address-find">
