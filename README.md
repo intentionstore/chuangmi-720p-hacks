@@ -6,7 +6,9 @@ Get telnet access to your Chuangmi 720p Camera.
 
 
 <ol>
-  <li>Copy<code>tf_recovery</code>to your Micro SD card using software like <a href="etcher.io">Etcher</a><li>
-  <li><li>
+  <li>Format your Micro SD card</li>
+  <li>Plug in your Chuangmi Camera<li>
+  <li>Copy <code>tf_recovery</code> to your Micro SD card using software like <a href="etcher.io">Etcher</a><li>
+  <li>hi<li>
 </ol>
 
