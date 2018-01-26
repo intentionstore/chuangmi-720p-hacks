@@ -9,8 +9,8 @@ Get telnet access to your Chuangmi 720p Camera.</p>
 <p>GeekBuying - http://bit.ly/2DFgPNh</p>
 <p>LightInTheBox - http://bit.ly/2nfGNvO</p>
 <h2>Donate a Coffee!</h2>
-  Every little helps! Donate me a coffee.
-  <a href="https://www.buymeacoffee.com/intention"><img src="https://i.imgur.com/NSS7nXz.png"></a>
+Every little helps! Donate me a coffee.
+<a href="https://www.buymeacoffee.com/intention"><img src="https://i.imgur.com/NSS7nXz.png"></a>
 </div>
 
 <div id="quick-links">
@@ -39,6 +39,7 @@ Get telnet access to your Chuangmi 720p Camera.</p>
 
 <div id="default-logins">
 <h1>Default Login</h1>
+<p>Use these login details wehn you <code>telent</code></p>
 <p><code>username: root</code>, no password</p>
 </div>
 
