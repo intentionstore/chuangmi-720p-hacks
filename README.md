@@ -68,6 +68,9 @@ Every little helps! Donate me a coffee.
 </div>
 
 <div id="outro-page">
-<h1>Other intergations</h1>
-<p>I'm curently using my Chuangmi Cameras with Homebridge.</p>
+<h1>Changelog</h1>
+<div>
+<h3>1.0</h3>
+<p>Added</p>
+</div>
 </div>
