@@ -9,7 +9,7 @@ Get telnet access to your Chuangmi 720p Camera.</p>
 <p>GeekBuying - http://bit.ly/2DFgPNh</p>
 <p>LightInTheBox - http://bit.ly/2nfGNvO</p>
 <h2>Donate a Coffee!</h2>
-  <a style="background: blue; color: #fff; padding: 13px 20px;" herf="https://www.buymeacoffee.com/intention">Support me</a>
+  <a herf="https://www.buymeacoffee.com/intention">Support me</a>
 </div>
 
 <div id="quick-links">
