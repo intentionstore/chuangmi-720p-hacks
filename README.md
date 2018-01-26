@@ -9,7 +9,6 @@ Get telnet access to your Chuangmi 720p Camera.</p>
 <p>GeekBuying - http://bit.ly/2DFgPNh</p>
 <p>LightInTheBox - http://bit.ly/2nfGNvO</p>
 <h2>Donate a Coffee!</h2>
-Every little helps! Donate me a coffee.
 <a href="https://www.buymeacoffee.com/intention"><img src="https://i.imgur.com/NSS7nXz.png"></a>
 </div>
 
@@ -29,7 +28,7 @@ Every little helps! Donate me a coffee.
 <li>Make note of the Camera's IP Address (e.g. 192.168.1.173), find out how to <a href="#ip-address-find">here</a>
 <li>Unplug your Camera
 <li>Format your Micro SD Card
-<li>Copy <code>tf_recovery</code> to your Micro SD card using software like <a href="etcher.io">Etcher</a>
+<li>Copy <code>tf_recovery</code> to your Micro SD card, DON'T BURN IT TO THE SD CARD! IT MAY CORRUPTE YOUR SD CARD AND MAKE IT USELESS.</a>
 <li>Insert your SD card into the camera.
 <li>Plug in your Camera
 <li>Wait untill the yellow status light turns solid blue
