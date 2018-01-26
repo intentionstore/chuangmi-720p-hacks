@@ -22,7 +22,7 @@ Get telnet access to your Chuangmi 720p Camera.
 <li>Insert your SD card into the camera.
 <li>Plug in your Camera
 <li>Wait untill the yellow status light turns solid blue
-<li>telnet YOUR_CAMERA'S_IP_ADDRESS (Grab the IP Address from Step 2)
+<li><code>telnet YOUR_CAMERA'S_IP_ADDRESS</code> (Grab the IP Address from Step 2)
 </ol>
 </div>
 
