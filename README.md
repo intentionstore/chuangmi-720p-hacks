@@ -38,7 +38,7 @@ Get telnet access to your Chuangmi 720p Camera.</p>
 
 <div id="default-logins">
 <h1>Default Login</h1>
-<p>Use these login details wehn you <code>telent</code></p>
+<p>Use these login details when you <code>telent</code></p>
 <p><code>username: root</code>, no password</p>
 </div>
 
@@ -62,7 +62,7 @@ Get telnet access to your Chuangmi 720p Camera.</p>
 <div class="steps-card">
 <img width="270" src="https://i.imgur.com/oiFTk7B.png">
 <br>
-<p>he Camera's full IP address will be displayed.</p>
+<p>The Camera's full IP address will be displayed.</p>
 </div>
 </div>
 
