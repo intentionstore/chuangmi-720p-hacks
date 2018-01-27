@@ -70,7 +70,7 @@ Get telnet access to your Chuangmi 720p Camera.</p>
 <h1>Changelog</h1>
 <div>
 <h3>1.0.5</h3>
-<p>fixed bugs<br>Added ".ds"</p>
+<p>fixed bugs<br>fixed problem when <code>tf_recovery.img</code> is burned to root of a sd card</p>
 </div>
 <div>
 <h3>1.0.1</h3>
